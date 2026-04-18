@@ -124,8 +124,8 @@ Full inline button UI for managing:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/ThiruXD/TG-FileToDrive-Bot.git
-cd TG-FileToDrive-Bot
+git clone https://github.com/ThiruXD/GDrive-TG-Bot.git
+cd GDrive-TG-Bot
 ```
 
 ### 2️⃣ Install Requirements
