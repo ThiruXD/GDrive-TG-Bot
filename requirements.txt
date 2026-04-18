@@ -1,0 +1,10 @@
+kurigram
+motor
+google-auth
+google-auth-oauthlib
+google-api-python-client
+aiohttp
+python-dotenv
+dnspython
+subprocess
+requests
